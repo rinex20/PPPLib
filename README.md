@@ -129,6 +129,7 @@ mode and INS/GNSS loosely coupled mode for real kinematic scene. Detailed inform
   * E-mail: cchen@cumt.edu.cn
   * Addres: School of Environment and Geo-informatics, China University of Mining and Technology
 
-
+**NOTE**
+some new function update in https://github.com/heiwa0519/PPP_AR
 
 **SUPPORTED BY [Guobin Chang's Lab](https://www.researchgate.net/lab/Guobin-Chang-Lab)**
